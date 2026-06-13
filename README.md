@@ -1,6 +1,6 @@
 # Slate Auto: Reservation-to-Revenue POV
 
-## Live Demo : https://tinylinkurl.com/DLJBJObX
+## Live Demo : https://claude.ai/public/artifacts/553d7c5a-91bc-49e0-ad0f-6811e408cf7d
 
 An interactive, single-file point of view on the question a commercial strategy role at Slate Auto actually exists to answer: **not how many reservations exist, but how many of them convert to paid.**
 
